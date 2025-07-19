@@ -1,10 +1,5 @@
 name: Main
 
-on:
-  push:
-    branches:
-      - main
-
 jobs:
   trigger-website-build:
     runs-on: ubuntu-latest
