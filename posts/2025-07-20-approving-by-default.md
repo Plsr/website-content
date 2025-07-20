@@ -6,7 +6,7 @@ slug: approving-default
 tags: programming
 draft: false
 ---
-A couple of weeks ago, I came across a podcast episode by Ryan Peterman (which I didn't know until then, but highly recommend if you're interested in programming, organizations and career development) with Jake Bolam, who is an IC8 (Principal Engineer) at Meta. I enjoyed the entire episode a lot and would recommend listening to it, but one idea in particular stood out to me.
+A couple of weeks ago, I came across [a podcast episode by Ryan Peterman](https://www.youtube.com/watch?v=QUhC5BDZt-E) (which I didn't know until then, but highly recommend if you're interested in programming, organizations and career development) with Jake Bolam, who is an IC8 (Principal Engineer) at Meta. I enjoyed the entire episode a lot and would recommend listening to it, but one idea in particular stood out to me.
 
 Jake mentioned that he always approves all Pull Requests he reviews. He goes through them, he notes his remarks, but he always approves them. That goes as far as approving something that might break production if merged unaddressed. 
 
